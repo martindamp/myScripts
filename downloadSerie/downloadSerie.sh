@@ -1,6 +1,5 @@
 #!/bin/bash
 #Script downloads from DR
-echo $# arguments 
 if (( $# != 4 )); then
     echo "Usage: $0 destination url from to"
     exit 1
