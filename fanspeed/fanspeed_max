@@ -1,0 +1,1 @@
+echo level disengaged | sudo tee /proc/acpi/ibm/fan
